@@ -1,25 +1,11 @@
 package section1.ex3;
 
+import utils.CallMethod;
+
 public class Solutions {
     public static void main(String[] args) {
-        System.out.println("----- hyeeun -----");
-        section1.ex3.hyeeun.Solution.main(null);
-        System.out.println("------------------");
-        System.out.println();
+        String[] studyMembers = {"hyeeun", "juhwan", "minkuk", "jinyong"};
 
-        System.out.println("----- juhwan -----");
-        section1.ex3.juhwan.Solution.main(null);
-        System.out.println("------------------");
-        System.out.println();
-
-        System.out.println("----- minkuk -----");
-        section1.ex3.minkuk.Solution.main(null);
-        System.out.println("------------------");
-        System.out.println();
-
-        System.out.println("----- jinyong -----");
-        section1.ex3.jinyong.Solution.main(null);
-        System.out.println("------------------");
-        System.out.println();
+        CallMethod.runSolution("section1.ex3", studyMembers);
     }
 }
