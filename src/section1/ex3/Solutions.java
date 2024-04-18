@@ -16,5 +16,10 @@ public class Solutions {
         section1.ex3.minkuk.Solution.main(null);
         System.out.println("------------------");
         System.out.println();
+
+        System.out.println("----- jinyong -----");
+        section1.ex3.jinyong.Solution.main(null);
+        System.out.println("------------------");
+        System.out.println();
     }
 }
