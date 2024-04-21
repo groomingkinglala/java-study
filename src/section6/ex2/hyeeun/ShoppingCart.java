@@ -1,4 +1,4 @@
-package section6.ex1.hyeeun;
+package section6.ex2.hyeeun;
 
 public class ShoppingCart {
     private Item[] items = new Item[10];

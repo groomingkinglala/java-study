@@ -1,4 +1,4 @@
-package section7.ex1.hyeeun;
+package section7.ex2.hyeeun;
 
 public class MathArrayUtils {
 
