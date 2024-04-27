@@ -1,4 +1,4 @@
-package section9.ex1;
+package section9.ex1.juhwan;
 
 public class Item {
 
