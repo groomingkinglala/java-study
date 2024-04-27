@@ -1,4 +1,4 @@
-package section8.ex1.minkuk;
+package section9.ex1.minkuk;
 
 public class Movie extends Item {
     private final String director;

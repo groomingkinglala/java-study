@@ -1,4 +1,4 @@
-package section8.ex1.minkuk;
+package section9.ex1.minkuk;
 
 public class Item {
     private final String name;
