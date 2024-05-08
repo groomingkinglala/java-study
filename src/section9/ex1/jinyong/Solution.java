@@ -1,4 +1,4 @@
-package section9.jinyong;
+package section9.ex1.jinyong;
 
 public class Solution {
     public static void main(String[] args) {
