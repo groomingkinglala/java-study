@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 public class PayDomain {
 
-    private HashMap<String, PaySystem> payOption = new HashMap<String, PaySystem>(){{
+    private final HashMap<String, PaySystem> payOption = new HashMap<>(){{
         put("kakao", new KakaoPay());
         put("naver", new NaverPay());
 
